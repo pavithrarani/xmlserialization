@@ -1,0 +1,6 @@
+C:\Users\Karsten D\Documents\Git Ext\3_Semester\xmlSerialization\xmlSerialization\xmlSerialization\bin\Debug\xmlSerialization.exe.config
+C:\Users\Karsten D\Documents\Git Ext\3_Semester\xmlSerialization\xmlSerialization\xmlSerialization\bin\Debug\xmlSerialization.exe
+C:\Users\Karsten D\Documents\Git Ext\3_Semester\xmlSerialization\xmlSerialization\xmlSerialization\bin\Debug\xmlSerialization.pdb
+C:\Users\Karsten D\Documents\Git Ext\3_Semester\xmlSerialization\xmlSerialization\xmlSerialization\obj\Debug\xmlSerialization.csprojResolveAssemblyReference.cache
+C:\Users\Karsten D\Documents\Git Ext\3_Semester\xmlSerialization\xmlSerialization\xmlSerialization\obj\Debug\xmlSerialization.exe
+C:\Users\Karsten D\Documents\Git Ext\3_Semester\xmlSerialization\xmlSerialization\xmlSerialization\obj\Debug\xmlSerialization.pdb
